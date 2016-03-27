@@ -1,5 +1,8 @@
 # CoreWar
-Epitech Project. ASM part is a compiler which "translate" asm langage to binary. Virtual machine takes those binaries and run them.
+Epitech Project. 
+
+ASM part is a compiler which "translate" asm langage to binary.
+Virtual machine takes those binaries and run them.
 
 --------
 
@@ -22,6 +25,7 @@ The winner is the last program still alive.
 -------
 
 Project realized with :
+
 MAREL Maud
 BROUT Marc
 DUHIEU Benjamin
