@@ -1,8 +1,7 @@
 # CoreWar
 Epitech Project. 
 
-ASM part is a compiler which "translate" asm langage to binary.
-
+ASM part is a compiler which "translate" asm langage to binary.\n
 Virtual machine takes those binaries and run them.
 
 --------
